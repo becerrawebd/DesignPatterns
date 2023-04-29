@@ -1,0 +1,2 @@
+FileEventData{fileEventTime=2023-04-29T01:59:27.846898200, fileEventType=OPEN, filename='file.txt'}
+FileEventData{fileEventTime=2023-04-29T01:59:27.859942800, fileEventType=DELETE, filename='file.txt'}

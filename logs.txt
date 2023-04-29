@@ -1,2 +1,0 @@
-FileEventData{fileEventTime=2023-04-28T23:56:03.477918, fileEventType=OPEN, filename='file.txt'}
-FileEventData{fileEventTime=2023-04-28T23:56:03.489016800, fileEventType=DELETE, filename='file.txt'}
