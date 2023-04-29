@@ -23,7 +23,7 @@ This project is based in [Refactoring Guru](https://refactoring.guru/es/design-p
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
-- [ ] Observer
+- [X] Observer
 - [ ] State
 - [ ] Strategy
 - [ ] Template Method
